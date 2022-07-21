@@ -4,22 +4,22 @@
 
 **Siga esses passos pra fazer o setup e poder trabalhar no seu projeto:**
 
--  [ ] Crie um **fork** deste projeto.
+-  [v] Crie um **fork** deste projeto.
    <details>
       <summary>Esqueceu como se faz?</summary>
       <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Ffork.png?alt=media&token=7030e997-246a-41fe-a75f-2a2ced61e54d" alt="Fork a sua própria cópia de nome-do-repo"/>
    </details>
--  [ ] Clone sua **PRÓPRIA** versão do repositório
+-  [v] Clone sua **PRÓPRIA** versão do repositório
    <details>
       <summary>Esqueceu como se faz?</summary>
       <img src="https://firebasestorage.googleapis.com/v0/b/assets-conteudo.appspot.com/o/gerais%2Fclone-repo.png?alt=media&token=d8b3c101-c6d4-4371-b018-ae4edec7e34c" alt="Garanta que o repositório é seu-usuário/nome-do-repo e faça o clone"/>
    </details>
--  [ ] Crie uma nova branch: git checkout -b `<turma-nome-sobrenome>`.
+-  [v] Crie uma nova branch: git checkout -b `<turma-nome-sobrenome>`.
    <details>
       <summary>Entenda o comando `git checkout -b`</summary>
       <p>Na aula vocês aprenderam a criar uma branch (`git branch "nome-branch"`) e se mover até ela (`git checkout "nome-branch"`). Porém, o git permite utilizar contrações para realizar mais de ação com um único comando, que é o caso do (`git checkout -b "nome-branch"`), que cria e automaticamente se move para a branch recém criada.</p>
    </details>
--  [ ] Implemente o projeto na branch `<turma-nome-sobrenome>`. Lembre-se de fazer commits.
+-  [v] Implemente o projeto na branch `<turma-nome-sobrenome>`. Lembre-se de fazer commits.
 -  [ ] Dê push nos commits: git push origin `<turma-nome-sobrenome>`.
 
 **Siga os passos abaixo ao terminar seu projeto, para enviá-lo:**
